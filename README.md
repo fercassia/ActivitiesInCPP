@@ -1,2 +1,2 @@
-# ActivitiesInCPP
-Activities that I learned a lot
+# Activities In C++
+University Activities that I improved my abilities as a developer
